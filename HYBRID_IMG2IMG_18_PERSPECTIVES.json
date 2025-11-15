@@ -190,7 +190,7 @@
         "Node name for S&R": "CheckpointLoaderSimple"
       },
       "widgets_values": [
-        "flux_dev.safetensors"
+        ""
       ],
       "title": "Load Model"
     },
@@ -3227,7 +3227,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 183
+          "link": 175
         },
         {
           "label": "vae",
@@ -3271,7 +3271,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 184
+          "link": 176
         },
         {
           "label": "vae",
@@ -3315,7 +3315,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 185
+          "link": 177
         },
         {
           "label": "vae",
@@ -3359,7 +3359,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 186
+          "link": 178
         },
         {
           "label": "vae",
@@ -3403,7 +3403,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 187
+          "link": 179
         },
         {
           "label": "vae",
@@ -3447,7 +3447,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 188
+          "link": 180
         },
         {
           "label": "vae",
@@ -3491,7 +3491,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 189
+          "link": 181
         },
         {
           "label": "vae",
@@ -3535,7 +3535,7 @@
           "label": "samples",
           "name": "samples",
           "type": "LATENT",
-          "link": 190
+          "link": 182
         },
         {
           "label": "vae",
